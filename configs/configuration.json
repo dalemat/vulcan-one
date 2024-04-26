@@ -6,6 +6,7 @@
       "frame":["https://rpc.testnet.frame.xyz/http"],
       "blast":["wss://blast.gasswap.org"],
       "bsc":["https://bsc-dataseed1.binance.org/"],
+      "electroneum":["https://rpc.electroneum.com/"],
       "polygon":["wss://polygon-bor-rpc.publicnode.com"]
     },
     "crossChainCollections":{
